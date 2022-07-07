@@ -1,0 +1,53 @@
+.text {
+    text-align: center;
+    color: white;
+}
+
+.titie {
+    font-size: 50px;
+    color: rgb(236, 9, 9)
+}
+
+.little {
+    font-size: 15px;
+    color: coral;
+}
+
+button {
+    background-color: orangered;
+    font-size: 18px;
+    border: 30px;
+    border-radius: 6px;
+    color: white;
+}
+
+.first-container {
+    background-image: url(./images/donation0.jpg);
+}
+
+.Donate-container {
+    text-align: center;
+
+}
+
+.list {
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 20px;
+
+}
+
+.nice {
+    text-align: center;
+}
+
+.third-con {
+    text-align: center;
+    margin-top: 100px;
+}
+
+.Third-card {
+    text-align: center;
+    display: flex;
+    justify-content: space-evenly;
+}
